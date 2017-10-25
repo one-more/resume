@@ -14,9 +14,28 @@ export default function () {
             </JobDetails>
             <List textSmall >
                 <ListItem>
-                    Heading team of frontend developers. Delivering tasks.
-                    Conducting code review. Maintaining code quality.
-                    Taking responsibility of releasing features.
+                    Participation in archectural tasks
+                </ListItem>
+                <ListItem>
+                    Delivering tasks between team members
+                </ListItem>
+                <ListItem>
+                    Conducting code review and maintaining code quality
+                </ListItem>
+                <ListItem>
+                    Starting new stream
+                </ListItem>
+                <ListItem>
+                    Communication between teams
+                </ListItem>
+                <ListItem>
+                    Participation in creating large-scale SPA architecure
+                </ListItem>
+                <ListItem>
+                    Developing application code base "from scratch"
+                </ListItem>
+                <ListItem>
+                    Conducting code review and maintaining code quality
                 </ListItem>
             </List>
         </Section>
