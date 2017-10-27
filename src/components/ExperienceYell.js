@@ -9,36 +9,42 @@ export default function () {
         <Section>
             <H3>Senior Frontend Developer</H3>
             <JobDetails>
-                <b>EPAM Systems</b>&nbsp;
-                // November 2016 - present
+                <b>ELL.RU</b>&nbsp;
+                // Apr, 2015 - Feb, 2016
             </JobDetails>
             <List textSmall >
                 <ListItem>
-                    Took part in creating architecture for large SPA
+                    Html markup
                 </ListItem>
                 <ListItem>
-                    Worked on solution to integrate multiple teams into single SPA
+                    Angular controllers
                 </ListItem>
                 <ListItem>
-                    Leading FrontEnd team
+                    Vanilla JS image grid plugin
                 </ListItem>
                 <ListItem>
-                    Delivering tasks between team members
+                    Analytics tools integration
                 </ListItem>
                 <ListItem>
-                    Starting new products
+                    Vanilla JS Bar chart with range slider
                 </ListItem>
                 <ListItem>
-                    Communication between teams
+                    Yandex maps integration
                 </ListItem>
                 <ListItem>
-                    Creating feature architecture based on module interfaces
+                    Css animations. Css preprocessors (Stylus)
                 </ListItem>
                 <ListItem>
-                    Developing application code base "from scratch"
+                    Client/server side forms validation/save logic
                 </ListItem>
                 <ListItem>
-                    Conducting code review and maintaining code quality
+                    Client side REST api integration
+                </ListItem>
+                <ListItem>
+                    Gulp tasks
+                </ListItem>
+                <ListItem>
+                    Node.js rendering, db integration, socket server
                 </ListItem>
             </List>
         </Section>

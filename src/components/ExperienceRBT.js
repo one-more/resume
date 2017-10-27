@@ -7,38 +7,38 @@ import List, {ListItem} from './components/List'
 export default function () {
     return (
         <Section>
-            <H3>Senior Frontend Developer</H3>
+            <H3>FullStack Developer</H3>
             <JobDetails>
-                <b>EPAM Systems</b>&nbsp;
-                // November 2016 - present
+                <b>RB Taxi</b>&nbsp;
+                // Aug, 2012 - Jan, 2013
             </JobDetails>
             <List textSmall >
                 <ListItem>
-                    Took part in creating architecture for large SPA
+                    Large SPA b2b platform
                 </ListItem>
                 <ListItem>
-                    Worked on solution to integrate multiple teams into single SPA
+                    HTML markup of the pages
                 </ListItem>
                 <ListItem>
-                    Leading FrontEnd team
+                    BackboneJS Views, Controllers, Models
                 </ListItem>
                 <ListItem>
-                    Delivering tasks between team members
+                    client side communication with REST API
                 </ListItem>
                 <ListItem>
-                    Starting new products
+                    forms validation/save
                 </ListItem>
                 <ListItem>
-                    Communication between teams
+                    server side cache (redis)
                 </ListItem>
                 <ListItem>
-                    Creating feature architecture based on module interfaces
+                    server side views (PHP Smarty)
                 </ListItem>
                 <ListItem>
-                    Developing application code base "from scratch"
+                    server side validation/save data logic (PHP)
                 </ListItem>
                 <ListItem>
-                    Conducting code review and maintaining code quality
+                    server side reports on-demand composing
                 </ListItem>
             </List>
         </Section>
