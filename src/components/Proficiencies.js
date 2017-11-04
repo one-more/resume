@@ -41,6 +41,9 @@ export default function () {
                 <ListItem>
                     Relentless, self-motivated learning
                 </ListItem>
+                <ListItem>
+                    Linux/OS X skills
+                </ListItem>
             </List>
         </Section>
     )
