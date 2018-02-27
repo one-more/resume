@@ -15,9 +15,13 @@ export default function () {
                 <Link target="blank" href="https://github.com/one-more/react-cron-builder" >
                     cron expression builder
                 </Link>
-                &nbsp; and &nbsp;
+                , &nbsp;
                 <Link target="blank" href="https://github.com/one-more/react-livr-validation" >
-                    validation component
+                    react validation
+                </Link>
+                &nbsp; and &nbsp;
+                <Link target="blank" href="https://github.com/one-more/falx" >
+                    application state management
                 </Link>
                 .
             </p>
