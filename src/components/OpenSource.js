@@ -18,13 +18,9 @@ export default function () {
                 <Link  target="blank" href="https://github.com/one-more/falx">
                     single state management (flux implementation)
                 </Link>
-                , &nbsp;
+                &nbsp; and &nbsp;
                 <Link target="blank" href="https://github.com/one-more/react-livr-validation" >
                     react validation
-                </Link>
-                &nbsp; and &nbsp;
-                <Link target="blank" href="https://github.com/one-more/falx" >
-                    application state management
                 </Link>
                 .
             </p>
