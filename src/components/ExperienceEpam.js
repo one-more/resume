@@ -10,7 +10,7 @@ export default function () {
             <H3>Senior Frontend Developer</H3>
             <JobDetails>
                 <b>EPAM Systems</b>&nbsp;
-                // November 2016 - present
+                // November 2016 - November 2017
             </JobDetails>
             <List textSmall >
                 <ListItem>

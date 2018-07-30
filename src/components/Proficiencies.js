@@ -16,10 +16,13 @@ export default function () {
                     React, Redux, and ES2015/ES2016
                 </ListItem>
                 <ListItem>
-                    Frontend build processes
+                    Frontend build processes (webpack, gulp)
                 </ListItem>
                 <ListItem>
                     Strong knowledge of core JS
+                </ListItem>
+                <ListItem>
+                    Node.js
                 </ListItem>
                 <ListItem>
                     CSS pre/post processors

@@ -14,6 +14,9 @@ export default function () {
                 packages or create own, such as &nbsp;
                 <Link target="blank" href="https://github.com/one-more/react-cron-builder" >
                     cron expression builder
+                </Link>, &nbsp;
+                <Link  target="blank" href="https://github.com/one-more/falx">
+                    single state management (flux implementation)
                 </Link>
                 , &nbsp;
                 <Link target="blank" href="https://github.com/one-more/react-livr-validation" >

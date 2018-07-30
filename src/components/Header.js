@@ -6,7 +6,7 @@ export default function () {
     return (
         <header>
             <H1>Dmitrii Nikolaev</H1>
-            <SubHeader>Senior Frontend Developer</SubHeader>
+            <SubHeader>Senior Frontend Engineer</SubHeader>
             <Address />
         </header>
     )

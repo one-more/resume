@@ -10,6 +10,10 @@ export const H1 = Heading.withComponent('h1').extend`
     margin: 0;
     line-height: 1;
     text-transform: uppercase;
+    
+    @media screen and (max-width: 370px) {
+        font-size:  2.6rem;
+    }
 `;
 
 export const H2 = Heading.withComponent('h2').extend`
