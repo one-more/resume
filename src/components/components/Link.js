@@ -1,3 +1,4 @@
+import React from "react"
 import styled from 'styled-components'
 
 export const types = {
@@ -13,7 +14,14 @@ function mapTypeToDecoration(type) {
     }
 }
 
-export default styled.a.attrs({
+export default styled(
+    ({children, href, className}) => (
+        <a
+            className={className}
+            href={href}
+        >{children}</a>
+    )
+).attrs({
     hoverDecoration: ({type}) => mapTypeToDecoration(type)
 })`
     color: ${({theme}) => theme.colors.thunderbird};

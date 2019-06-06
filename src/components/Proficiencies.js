@@ -36,6 +36,12 @@ export default function () {
                     JS Unit testing (Jest, Mocha + sinon + chai)
                 </ListItem>
                 <ListItem>
+                    Python scripting (unit testing)
+                </ListItem>
+                <ListItem>
+                    Mobile development with NativeScript
+                </ListItem>
+                <ListItem>
                     Principles and practises in responsive and adaptive web design
                 </ListItem>
                 <ListItem>

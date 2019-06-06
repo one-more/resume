@@ -28,6 +28,9 @@ export default function () {
                 <ListItem>
                     Participating in cross-team collaboration and integration
                 </ListItem>
+                <ListItem>
+                    Mobile applications development with NativeScript
+                </ListItem>
             </List>
         </Section>
     )
