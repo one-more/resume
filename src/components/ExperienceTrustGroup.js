@@ -14,6 +14,10 @@ export default function () {
             </JobDetails>
             <List textSmall >
                 <ListItem>
+                    Ensured predictable latency, reliability and failure recovery
+                    in multi-terabyte real-time database by reorganizing processes, file systems, and data structures.
+                </ListItem>
+                <ListItem>
                     Server side errors logging and collection system with web interface(SPA);
                     sms notification and issue tracking control integration. (collected errors from about 40 servers).
                 </ListItem>
@@ -24,19 +28,18 @@ export default function () {
                     Payment systems api integration with web interface(SPA)
                 </ListItem>
                 <ListItem>
-                    Web interface integrated with yandex images to search, crop and add meta data to images(SPA)
+                    Web interface integrated with search engines to search images, crop and add meta data to it(SPA)
                 </ListItem>
                 <ListItem>
-                    Vanilla JS chart rendering library on canvas
+                    Created Vanilla JS chart rendering library on canvas from scratch
                 </ListItem>
                 <ListItem>
-                    Vanilla JS forms validation/save logic
+                    Implemented Vanilla JS forms validation/save logic
                 </ListItem>
                 <ListItem>
-                    HTML markup
-                </ListItem>
-                <ListItem>
-                    Server side CRUD data logic (PHP + MySql). REST Api endpoints. MVC logic
+                    Server side CRUD data logic (PHP + MySql).
+                    REST Api endpoints.
+                    MVC logic
                 </ListItem>
                 <ListItem>
                     Cron scheduled scripts

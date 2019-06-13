@@ -14,6 +14,9 @@ export default function () {
             </JobDetails>
             <List textSmall >
                 <ListItem>
+                    Developed Python Ajax web server to provide visualization tool for trading system.
+                </ListItem>
+                <ListItem>
                     Maintaining old codebase and developing new features
                 </ListItem>
                 <ListItem>

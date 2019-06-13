@@ -14,25 +14,20 @@ export default function () {
             </JobDetails>
             <List textSmall >
                 <ListItem>
-                    Html markup
+                    Developing large-scale project for commercial use using Angular/Stylus/Node.js
                 </ListItem>
                 <ListItem>
-                    Angular controllers
-                </ListItem>
-                <ListItem>
-                    Vanilla JS image grid plugin
+                    Created Vanilla JS image grid plugin, Vanilla JS Bar chart with range from scratch optimized
+                    it and implemented it into project
                 </ListItem>
                 <ListItem>
                     Analytics tools integration
                 </ListItem>
                 <ListItem>
-                    Vanilla JS Bar chart with range slider
+                    Maps integration
                 </ListItem>
                 <ListItem>
-                    Yandex maps integration
-                </ListItem>
-                <ListItem>
-                    Css animations. Css preprocessors (Stylus)
+                    Creating responsive css animations
                 </ListItem>
                 <ListItem>
                     Client/server side forms validation/save logic
@@ -41,10 +36,12 @@ export default function () {
                     Client side REST api integration
                 </ListItem>
                 <ListItem>
-                    Gulp tasks
+                    Creating/maintaining  Gulp tasks
                 </ListItem>
                 <ListItem>
-                    Node.js rendering, db integration, socket server
+                    Node.js rendering,
+                    DB integration,
+                    implementing secure socket connection between client and server
                 </ListItem>
             </List>
         </Section>

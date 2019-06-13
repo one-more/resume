@@ -4,9 +4,12 @@ import styled from 'styled-components'
 export default function () {
     return (
         <Summary>
-            I am a frontend developer interested in building robust, large scalable
-            applications; solving architectural issues; working with cutting-edge technologies;
-            and constantly learning.
+            <p>
+                Software Engineer with years of professional expertise in building robust,
+                large scalable commercial applications; solving architectural issues;
+                working with cutting-edge technologies. Assumed leadership role
+                at EPAM systems as well as Severex LTD.
+            </p>
         </Summary>
     )
 }

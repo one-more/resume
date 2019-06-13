@@ -14,31 +14,29 @@ export default function () {
             </JobDetails>
             <List textSmall >
                 <ListItem>
-                    Large SPA b2b platform
+                    Worked with Large SPA b2b platform
                 </ListItem>
                 <ListItem>
-                    HTML markup of the pages
+                    Created BackboneJS Views, Controllers, Models
+                    for the purpose of creating new web pages
                 </ListItem>
                 <ListItem>
-                    BackboneJS Views, Controllers, Models
+                    Client side communication with REST API
                 </ListItem>
                 <ListItem>
-                    client side communication with REST API
+                    Forms validation/save
                 </ListItem>
                 <ListItem>
-                    forms validation/save
+                    Server side cache (redis)
                 </ListItem>
                 <ListItem>
-                    server side cache (redis)
+                    Server side views (PHP Smarty)
                 </ListItem>
                 <ListItem>
-                    server side views (PHP Smarty)
+                    Server side validation/save data logic (PHP)
                 </ListItem>
                 <ListItem>
-                    server side validation/save data logic (PHP)
-                </ListItem>
-                <ListItem>
-                    server side reports on-demand composing
+                    Server side reports on-demand composing
                 </ListItem>
             </List>
         </Section>

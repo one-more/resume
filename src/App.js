@@ -3,7 +3,6 @@ import styled from 'styled-components'
 import Summary from './components/Summary'
 import Header from './components/Header'
 import Proficiencies from './components/Proficiencies'
-import OpenSource from './components/OpenSource'
 import Experience from './components/Experience'
 import Footer from './components/Footer'
 
@@ -14,7 +13,6 @@ export default class App extends Component {
             <Header />
             <Summary />
             <Proficiencies />
-            <OpenSource />
             <Experience />
             <Footer />
         </Wrapper>

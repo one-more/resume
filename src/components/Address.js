@@ -9,17 +9,6 @@ export default function () {
             <Link type={types.mailto} href="mailto:dmni3865@gmail.com">
                 dmni3865@gmail.com
             </Link>
-            <Dot>&bull;</Dot>
-            <Phone>
-                <span>
-                    (375) 25-774-35-29
-                </span>
-                <Dot>&bull;</Dot>
-            </Phone>
-            <span>
-                Minsk, Belarus
-            </span>
-            <LastDot>&bull;</LastDot>
         </Address>
     )
 }

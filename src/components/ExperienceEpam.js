@@ -14,22 +14,33 @@ export default function () {
             </JobDetails>
             <List textSmall >
                 <ListItem>
-                    Took part in creating architecture for large SPA
+                    Slow and inefficient system performance was fixed through
+                    implementation of various metrics which improved overall performance by 60%.
                 </ListItem>
                 <ListItem>
-                    Worked on solution to integrate multiple teams into single SPA
+                    Introduced and championed use of improved development cycles and testing.
+                </ListItem>
+                <ListItem>
+                    Improved quality and reduced development costs by writing high-efficiency solutions as well
+                    as rewriting and optimizing code written with usage of obsolete and non optimal technologies.
+                </ListItem>
+                <ListItem>
+                    Created architecture for large SPA
+                </ListItem>
+                <ListItem>
+                    Integrated multiple teams into single SPA
                 </ListItem>
                 <ListItem>
                     Leading FrontEnd team
                 </ListItem>
                 <ListItem>
-                    Delivering tasks between team members
+                    Assigning tasks to team members
                 </ListItem>
                 <ListItem>
-                    Starting new products
+                    Leading role in releasing market ready new products
                 </ListItem>
                 <ListItem>
-                    Communication between teams
+                    Communication and mentoring on different levels throughout all stages of development
                 </ListItem>
                 <ListItem>
                     Creating feature architecture based on module interfaces
@@ -39,6 +50,9 @@ export default function () {
                 </ListItem>
                 <ListItem>
                     Conducting code review and maintaining code quality
+                </ListItem>
+                <ListItem>
+                    Conducted interview processes with applicants of different level
                 </ListItem>
             </List>
         </Section>
