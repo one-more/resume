@@ -13,7 +13,7 @@ export default function () {
                     Large-scale frontend architecture
                 </ListItem>
                 <ListItem>
-                    React, Redux, and ES2015/ES2016
+                    React, Redux, and ES2015/ES2016+
                 </ListItem>
                 <ListItem>
                     Frontend build processes (webpack, gulp)

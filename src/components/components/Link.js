@@ -15,8 +15,9 @@ function mapTypeToDecoration(type) {
 }
 
 export default styled(
-    ({children, href, className}) => (
+    ({children, href, className, ...props}) => (
         <a
+            {...props}
             className={className}
             href={href}
         >{children}</a>
