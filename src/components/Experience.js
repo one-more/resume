@@ -6,6 +6,7 @@ import ExperienceYell from './ExperienceYell'
 import ExperienceTrustGroup from './ExperienceTrustGroup'
 import ExperienceRBT from './ExperienceRBT'
 import ExperienceSeverex from './ExperienceSeverex'
+import {ExperienceInTouch} from "./ExperienceIntouch"
 
 export default function () {
     return (
@@ -13,6 +14,7 @@ export default function () {
             <H2>
                 Professional Experience
             </H2>
+            <ExperienceInTouch />
             <ExperienceSeverex />
             <ExperienceEpam />
             <ExperienceYell />
