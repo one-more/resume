@@ -5,7 +5,7 @@ import Address from './Address'
 export default function () {
     return (
         <header>
-            <H1>Dmitry Nikolaev</H1>
+            <H1>Dmitriy Nikolaev</H1>
             <SubHeader>Energetic Results-Focused Senior Software Engineer</SubHeader>
             <Address />
         </header>
