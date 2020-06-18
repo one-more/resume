@@ -12,12 +12,12 @@ export default function () {
             <Dot>&bull;</Dot>
             <Phone>
                 <span>
-                    +1 (425) 239-1676
+                    +375 (25) 774-35-29
                 </span>
                 <Dot>&bull;</Dot>
             </Phone>
             <span>
-                Seattle, WA
+                Minsk, Belarus
             </span>
             <LastDot>&bull;</LastDot>
         </Address>
