@@ -9,7 +9,7 @@ export const ExperienceInTouch = () => {
         <H3>Senior Frontend Developer</H3>
         <JobDetails>
             <b>InTouchHealth</b>&nbsp;
-            // September 2019 - present
+            // September 2019 - February 2020
         </JobDetails>
         <List textSmall >
             <ListItem>
