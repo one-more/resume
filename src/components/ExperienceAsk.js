@@ -4,40 +4,40 @@ import JobDetails from "./components/JobDetails";
 import List, {ListItem} from "./components/List";
 import React from "react";
 
-export const ExperienceSoftSwiss = () => {
+export const ExperienceAsk = () => {
     return <Section>
-        <H3>Senior Frontend Developer</H3>
+        <H3>Lead Frontend Developer</H3>
         <JobDetails>
-            <b>SoftSwiss</b>&nbsp;
-            // March 2020 - June 2020
+            <b>Ask Applications</b>&nbsp;
+            // July 2020 - March 2021
         </JobDetails>
         <List textSmall >
             <ListItem>
-                Successfully delivering MVP
+                Working closely with stack holders, devops and management
             </ListItem>
             <ListItem>
-                Designing Frontend application from scratch
+                Hosting knowledge transfer sessions
             </ListItem>
             <ListItem>
-                Implementing micro-frontends design
+                Writing technical documentation
             </ListItem>
             <ListItem>
-                Implementing feature-first code organization
+                Setting up CI/CD pipelines
             </ListItem>
             <ListItem>
-                Choosing application tech stack (React + Redux + TypeScript)
+                Designing app architecture
             </ListItem>
             <ListItem>
-                Implementing full pyramid of tests (Unit, Integration, Mutation, Visual, e2e)
+                Performing code review, solving conflincts
             </ListItem>
             <ListItem>
-                Configuring CI (gitlab) + CD (nginx docker image)
+                Making code refactorings
             </ListItem>
             <ListItem>
-                Developing features
+                Implementing full pyramid of tests
             </ListItem>
             <ListItem>
-                Writing tech documentation
+                Delivering new features 
             </ListItem>
         </List>
     </Section>
