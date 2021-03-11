@@ -31,7 +31,7 @@ const Dot = styled.span`
     color: ${({theme}) => theme.colors.silver};
 `;
 
-const LastDot = Dot.extend`
+const LastDot = styled(Dot)`
     display: none;
 `;
 

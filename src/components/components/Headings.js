@@ -5,7 +5,9 @@ const Heading = styled.div`
    font-weight: ${({theme}) => theme.font.bold}; 
 `;
 
-export const H1 = Heading.withComponent('h1').extend`
+export const H1 = styled(Heading).attrs({
+    as: "h1"
+})`
     font-size: 3.4321rem;
     margin: 0;
     line-height: 1;
@@ -16,12 +18,16 @@ export const H1 = Heading.withComponent('h1').extend`
     }
 `;
 
-export const H2 = Heading.withComponent('h2').extend`
+export const H2 = styled(Heading).attrs({
+    as: "h2"
+})`
     font-size: 1.7rem;
     margin: 1rem 0;
 `;
 
-export const H3 = Heading.withComponent('h3').extend`
+export const H3 = styled(Heading).attrs({
+    as: "h3"
+})`
     font-size: 1.17em;
     margin: 0;
 `;
