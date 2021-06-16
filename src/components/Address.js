@@ -20,8 +20,8 @@ export default function () {
                 <span>
                     Telegram: +375 (25) 774-35-29
                 </span>
+                <Dot>&bull;</Dot>
             </Phone>
-            <Dot>&bull;</Dot>
             <RemoteBox>
                 Remote
                 &nbsp;&nbsp;
