@@ -5,10 +5,12 @@ export default function () {
     return (
         <Summary>
             <p>
-                Software Engineer with years of professional expertise in building robust,
-                large scalable commercial applications; solving architectural issues;
-                working with cutting-edge technologies. Assumed leadership role
-                at EPAM systems as well as Severex LTD.
+                Highly skilled and motivated Software Engineer effective in
+                guiding product cycle from conception to completion,
+                management and complete guidance of installation processes for
+                on-schedule product launches. Consult and cooperate with broad
+                clientele and deploy additional system resources to deliver and enhance
+                configuration for optimal customer satisfaction.
             </p>
         </Summary>
     )

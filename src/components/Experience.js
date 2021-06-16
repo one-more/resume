@@ -9,6 +9,7 @@ import ExperienceSeverex from './ExperienceSeverex'
 import {ExperienceInTouch} from "./ExperienceIntouch"
 import {ExperienceSoftSwiss} from "./experienceSoftSwiss";
 import {ExperienceAsk} from "./ExperienceAsk"
+import {ExperienceUpsilonit} from "./ExperienceUpsilonit";
 
 export default function () {
     return (
@@ -16,9 +17,9 @@ export default function () {
             <H2>
                 Professional Experience
             </H2>
+            <ExperienceUpsilonit />
             <ExperienceAsk /> 
             <ExperienceSoftSwiss />
-            <ExperienceInTouch />
             <ExperienceSeverex />
             <ExperienceEpam />
             <ExperienceYell />

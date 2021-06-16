@@ -6,7 +6,9 @@ export default function () {
     return (
         <header>
             <H1>Dmitriy Nikolaev</H1>
-            <SubHeader>Energetic Results-Focused Senior Software Engineer</SubHeader>
+            <SubHeader>
+                Highly skilled and passionate Software Engineer
+            </SubHeader>
             <Address />
         </header>
     )

@@ -2,6 +2,12 @@ import React from 'react'
 import styled from 'styled-components'
 import {doubleBorder} from '../data/constants'
 import Link, {types} from './components/Link'
+import wifiIcon from "./wifi.png"
+
+const RemoteBox = styled.div`
+  display: inline-flex;
+  align-items: center;
+`
 
 export default function () {
     return (
@@ -12,13 +18,15 @@ export default function () {
             <Dot>&bull;</Dot>
             <Phone>
                 <span>
-                    +375 (25) 774-35-29
+                    Telegram: +375 (25) 774-35-29
                 </span>
-                <Dot>&bull;</Dot>
             </Phone>
-            <span>
-                Minsk, Belarus
-            </span>
+            <Dot>&bull;</Dot>
+            <RemoteBox>
+                Remote
+                &nbsp;&nbsp;
+                <img src={wifiIcon} />
+            </RemoteBox>
             <LastDot>&bull;</LastDot>
         </Address>
     )
